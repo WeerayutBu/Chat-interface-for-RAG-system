@@ -21,16 +21,15 @@ This demo built with **FastAPI** and **Streamlit**. FastAPI provides chat and RA
 pip install -r requirements.txt
 ```
 
-## Run FAST API (Chat and Rag)
-```python 
-python -m uvicorn api.main:app --reload
-```
-
 ## Run steamlit
 ```python
 streamlit run ui/main.py 
 ```
 
+## Run FAST API (Chat and Rag)
+```python 
+python -m uvicorn api.main:app --reload
+```
 
 Create a .env file:
 ```bash
