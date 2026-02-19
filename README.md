@@ -7,7 +7,7 @@ This demo is built using FastAPI and Streamlit. FastAPI handles the chat and RAG
 - Streamlit for a simple UI  
 - Local API retriever for contextual grounding  
 
-![RAG Interface Demo](images/demo.png)
+![RAG Interface Demo](images/demo.jpg)
 
 ## Requirements
 
